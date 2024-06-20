@@ -32,9 +32,12 @@ We'll be using Google Colaboratory for our coding exercises. A quick guide to ge
 We'll also be utilizing Hugging Face, a popular platform for sharing and accessing machine learning models. You'll need to create a free account on Hugging Face and obtain an API token. Instructions for creating a Hugging Face account can be found here: [Create Hugging Face Account](https://huggingface.co/signup). Instructions for creating a Hugging Face API token can be found here: [Create API Token](https://huggingface.co/docs/hub/en/security-tokens)
 
 ## 🎥 More Resources
-- [YouTube Playlist on RAG](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
-- [RAG from Scratch GitHub Repository](https://github.com/langchain-ai/rag-from-scratch/tree/main)
-- [Spotify Podcast on RAG](https://open.spotify.com/show/2Yqo7i3psncgNKznDJMvEB?si=49de00b19631419e)
+- [RAG From Scratch- LangChain playlist](https://github.com/dinbav/Hogwarts-School-of-RAG/assets/39160989/c82b7ed9-f824-4037-8e8d-3715cfd33d9e)
+](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+- [RAG From Scratch- LangChain repo](https://github.com/dinbav/Hogwarts-School-of-RAG/assets/39160989/646c8083-6e75-4f1e-b499-14ec31f233b6)
+](https://github.com/langchain-ai/rag-from-scratch/tree/main)
+- [SLangTalks Podcast](https://github.com/dinbav/Hogwarts-School-of-RAG/assets/39160989/7c992f2f-6682-4212-b8d4-3f8b5e8521bb)
+](https://open.spotify.com/show/2Yqo7i3psncgNKznDJMvEB?si=49de00b19631419e)
 - [Deterministic RAG Agent GitHub Repository](https://github.com/NirDiamant/Deterministic-RAG-Agent/blob/main/talk_to_harry_potter_complex_retriever.ipynb)
 
 ## 💬 Feedback and Questions
