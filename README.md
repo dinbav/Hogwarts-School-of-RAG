@@ -36,7 +36,7 @@ We'll also be utilizing Hugging Face, a popular platform for sharing and accessi
 - [RAG From Scratch- LangChain playlist](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 - [RAG From Scratch- LangChain GitHub Repository](https://github.com/langchain-ai/rag-from-scratch/tree/main)
 - [LangTalks Podcast ](https://open.spotify.com/show/2Yqo7i3psncgNKznDJMvEB?si=49de00b19631419e)
-- [Deterministic RAG Agent GitHub Repository](https://github.com/NirDiamant/Deterministic-RAG-Agent/blob/main/talk_to_harry_potter_complex_retriever.ipynb)
+- [Deterministic RAG Agent GitHub Repository](https://github.com/NirDiamant/Deterministic-RAG-Agent/blob/main/sophisticated_rag_agent_harry_potter.ipynb)
 
 
 ## 💬 Feedback and Questions
